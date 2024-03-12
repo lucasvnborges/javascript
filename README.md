@@ -13,6 +13,4 @@ The tests are an opportunity for something else - a friendly assistant, co-pilot
 
 This can be achieved by selectively cherry-picking techniques, tools, and test targets that are cost-effective and provide great ROI. Test only as much as needed, and strive to keep it nimble, sometimes it's even worth dropping some tests and trading reliability for agility and simplicity.
 
-![alt text](/assets/headspace.png "We have no head room for additional complexity")
-
 Most of the advice below are derivatives of this principle.
